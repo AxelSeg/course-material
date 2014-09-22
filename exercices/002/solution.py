@@ -4,7 +4,6 @@ Created on Mon Sep 22 10:42:41 2014
 
 @author: Axel
 """
-
 a = ('abcdefghijklnmopqrstuvwxyz')
 b = a[::-1]
 #print(b)
