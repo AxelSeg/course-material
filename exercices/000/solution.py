@@ -4,5 +4,4 @@
 
 Ceci est un script temporaire.
 """
-
 print("Hello, World !")
