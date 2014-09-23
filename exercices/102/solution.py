@@ -47,4 +47,3 @@ def check_my_city(city_name):
         else:
             print({"number": i["number"],
                     "zip": i["zip"]})
-check_my_city("PARIS-")
