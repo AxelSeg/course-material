@@ -2,9 +2,13 @@
 
 Introduces: functions, slice, cast.
 
+Author(s): Julien Palard
+
 ## Instructions
 
 Resolve the [8th euler problem](https://projecteuler.net/problem=8).
+
+You just have to print the solution, the number, alone in its line.
 
 ## References
  - [functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
