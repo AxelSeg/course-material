@@ -4,7 +4,6 @@ Created on Mon Sep 22 22:37:07 2014
 
 @author: Axel
 """
-import numpy as np
 def draw_n_squares(n):
     hor = '+---'
     ver = '|   '
