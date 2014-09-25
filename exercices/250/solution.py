@@ -12,19 +12,3 @@ def draw_n_squares(n):
     for i in range(n):
         print(hor * n + plus), print(ver * (n+1))
     print(hor * n + plus)
-
-    
-draw_n_squares(5)
-#def draw_n_squares(n):
-#    a = '+'
-#    b = '-'
-#    c = '|'
-#    d = ' '
-#    for i in range(n):
-#        for j in range()
-#        vertical = (3 * n) - (n - 1)
-#        horizontal = (5 * n) - (n - 1)
-#    print(vertical)
-#    print(horizontal)
-        
-#draw_n_squares(5)
